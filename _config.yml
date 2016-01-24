@@ -3,9 +3,9 @@ favicon: null
 name: Madeleine Punde Photography
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,17 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 0.4893617
   lightness: 0.2909376067109406
   saturation: 0.08708758791908622
   rhythmicContrast: 0.3288566947448999
   brandColors:
-    - '#546D9B'
-    - '#394B78'
-    - '#7791CF'
-    - '#9ABDF3'
+    - '#1E386E'
+    - '#416DB5'
+    - '#86B6F3'
+    - '#FFB488'
+    - '#774B76'
 typography_spectrum: 0.1529643614776433
